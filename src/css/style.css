@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 * {
     font-family: 'Roboto', sans-serif;
@@ -76,3 +77,76 @@
     background-color: rgb(104, 168, 7);
 }
 
+#img1{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.title-img1 {
+    padding-top: 150px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: #019ed8;
+}
+
+.subtitle-img1 {
+    text-align: center;
+}
+
+#img2 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.content-2 {
+    background-color: #019ed8;
+}
+
+.title-content-2 {
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 12px;
+    color: #ffffff;
+}
+
+.content-3 {
+    padding: 100px;
+    
+}
+
+.subtitle-content-3 {
+    font-weight: bolder;
+    font-style: italic;
+    color: #114881;
+}
+
+.subtitle-content-3-l1 {
+    color: #114881;
+}
+
+.content-4 {
+    padding-top: 50px;
+    background-color: #019ed8;
+}
+
+.title-content-4 {
+    padding-top: 110px;
+    color: #ffffff;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.text-content-4 {
+    color: #ffffff;
+}
+
+.content-5 {
+    padding-top: 80px;
+}
+
+.title-content-5 {
+    font-weight: bolder;
+    font-style: italic;
+    color: #ffffff;
+}
